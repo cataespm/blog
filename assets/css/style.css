@@ -1,0 +1,141 @@
+body {
+  font-family: "poppins";
+  font-weight: 500;
+  color: #000000;
+}
+/* ----------------------------------------------*/
+
+.blogfrontend {
+  width: 100%;
+  height: 130px;
+}
+
+.logo {
+  width: 55px;
+  height: 55px;
+}
+
+.padding_10 {
+  padding-left: 10px;
+}
+.margin_10 {
+  margin: 10px;
+}
+
+/* --------------------------------------------*/
+.novedades {
+  width: 100%;
+  height: auto;
+}
+
+.novedades_principal {
+  width: 60%;
+}
+
+.novedades_proximas {
+  width: 40%;
+}
+
+.novedades_secciones {
+  width: 189px;
+  height: 145px;
+}
+/* --------------------------------------------*/
+
+.populares {
+  width: 100%;
+  height: auto;
+}
+
+.populares_categorias {
+  width: 40%;
+}
+
+.populares_principal {
+  width: 60%;
+}
+
+.contenedor_populares {
+  width: 298px;
+  height: 200px;
+}
+.componentes_general {
+  float: left;
+  height: 100%;
+}
+
+/* --------------------------------------------*/
+.bordes_redondos {
+  border-radius: 10px;
+}
+
+.logo_redondo {
+  width: 55px;
+  height: 55px;
+}
+.logo_circular {
+  width: 55px;
+  height: 55px;
+  border-radius: 25px;
+}
+.logos_categorias {
+  width: 99px;
+  height: 74px;
+}
+
+.texto_categorias {
+  color: white;
+  font-weight: 700;
+  font-size: xx-large;
+  text-align: end;
+  margin-right: 15px;
+}
+.width_100 {
+  width: 100%;
+}
+
+.float {
+  float: left;
+}
+.font_weight400 {
+  font-weight: 400;
+}
+.font_bold700 {
+  font-weight: 700;
+}
+
+.rectangulo {
+  width: 297px;
+  height: 89px;
+}
+.bg_morado {
+  background-color: #563d7c;
+}
+.bg_verde {
+  background-color: #67c770;
+}
+.bg_gris {
+  background-color: #292c33;
+}
+.bg_celeste {
+  background-color: #299ed5;
+}
+.bg_amarillo {
+  background-color: #f7e018;
+}
+.bg_rojo {
+  background-color: #e93e30;
+}
+.bg_negro {
+  background-color: #000000;
+}
+
+/* --------------------------------------------*/
+
+.secciones {
+  height: 167px;
+  width: 409px;
+}
+.separador {
+  border-top: 0.3px solid #979797;
+}
